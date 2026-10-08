@@ -1,4 +1,4 @@
-var builder = WebApplication.CreateBuilder(args);
+var builder = WebApplication.CreateBuilder(args); //É a preparação da aplicação. Pensa aproximadamente como a inicialização do ambiente do Laravel
 
 // Add services to the container.
 
